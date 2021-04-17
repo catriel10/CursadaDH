@@ -1,0 +1,15 @@
+/*Sistema de módulos
+Si bien en el siguiente video vamos a ver los tipos de módulos que existen en Node.js, para la clase en vivo nos concentraremos en los módulos creados.
+
+Para conocer
+
+En resumen
+
+Descargar
+exerciseProgressIcon
+Importar módulos
+Vamos a practicar la importación de los módulos, ya que es algo que usaremos permanentemente.
+
+Nuestro objetivo será crear 3 variables: moduloNativo, moduloInstalado y moduloPropio, en donde cada una almacenará un módulo distinto.
+
+La primera deberá requerir el módulo http, la segunda el módulo axios y la tercera un módulo local exportado del archivo miFuncion.js. Este último archivo se encuentra en la misma carpeta que nuestro index.js.*/

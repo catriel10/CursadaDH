@@ -1,0 +1,32 @@
+Habilidades blandas: autoevaluación
+Desde Digital House trabajamos en pos de responder la pregunta acerca de cómo enseñar las herramientas necesarias para una exitosa transición al mundo laboral. En este sentido, creemos que no solo son necesarias las habilidades o conocimientos técnicos a la hora de insertarse en dicho mundo. Este es el desafío al cual la educación, y en especial la educación técnica, se ve enfrentada en este contexto llamado “del conocimiento o de la información”, que es altamente cambiante.
+
+A partir de este análisis de la actualidad, nos preguntamos cuáles son esas habilidades que se demandan hoy en día. Diversas entidades a nivel mundial se preocuparon por la respuesta a esa pregunta y elaboraron distintas propuestas que, a pesar de su diversidad, tienen algunos puntos de contacto. Los elementos centrales de esas propuestas son competencias como el pensamiento crítico, la comunicación, la creatividad y la colaboración.
+
+Desde Digital House en general, y el curso Programación Web Full Stack en particular, decidimos hacer foco en algunas habilidades involucradas en esas competencias, como son: la autoevaluación; el compromiso con la transformación digital; el trabajo en equipo; el aprendizaje activo motivado por la búsqueda de soluciones y la indagación permanente; la perseverancia; la reflexión sobre el propio aprendizaje; ser creadores y no meramente consumidores de tecnología e información; la autonomía y la capacidad analítica.
+
+Todas estas habilidades están íntimamente relacionadas con las bases de nuestra metodología de enseñanza y aprendizaje:
+
+Aprender a aprender
+Aprender a pensar
+Aprender las bases
+Aprender haciendo
+Es por esto que no vamos a dejarlos solos en el camino, sino que a lo largo del curso estaremos trabajando juntos, brindando actividades y espacios para la construcción y la adquisición de dichas habilidades que son una parte sustancial del proceso de aprendizaje.
+
+La autoevaluación
+Mediante este formulario queremos proponerte que autoevalúes tu progreso a lo largo de este módulo sobre Introducción a Node.js y JavaScript.
+
+¿Por qué proponemos una autoevaluación?
+La autoevaluación es una de las actitudes requeridas para tener éxito en cualquiera de las actividades que realices. Porque te permite ponerte a prueba, hacer autocrítica e identificar aciertos. Entre los beneficios que presenta la realización de una auténtica autoevaluación, destacan los siguientes:
+
+Es uno de los medios para que conozcas y tomes conciencia de tu progreso individual.
+Ayuda a hacerte responsable de sus actividades.
+ Es un factor básico de motivación y refuerzo del aprendizaje.
+Permite al docente conocer cuál es tu valoración de los aprendizajes, de los contenidos que se trabajan, de la metodología utilizada, etc.
+Ayuda a reflexionar individualmente sobre el proceso de enseñanza y aprendizaje realizado.
+Ayuda a profundizar en un mayor autoconocimiento y comprensión del proceso realizado
+ Posibilita la autonomía y autodirección.
+Por todo esto, te proponemos que realices la siguiente autoevaluación:
+
+¡Este cuestionario ya lo contestaste!
+Resultados

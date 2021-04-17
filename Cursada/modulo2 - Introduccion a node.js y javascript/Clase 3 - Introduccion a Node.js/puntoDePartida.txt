@@ -1,0 +1,8 @@
+Punto de partida
+A continuación, compartimos los objetivos de esta clase para tenerlos en cuenta y poder chequear que hayamos entendido todo lo necesario para pasar a los siguientes temas.
+
+Objetivos de la clase
+Retomar los contenidos que se vieron en la clase virtual.
+Entender qué es Node.js y cómo funciona.
+Trabajar con los módulos de Node.js.
+Investigar sobre Node.js y elaborar una documentación.

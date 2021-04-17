@@ -1,0 +1,19 @@
+Qué vamos a ver en esta clase?
+A lo largo de esta clase vamos a encontrar algunos conceptos introductorios a JavaScript. Probablemente no nos resulten totalmente nuevos, porque algunos los abordamos en el prework. La idea es realizar un repaso de todos esos conceptos porque sirven de base para toda la cursada.
+Los temas son:
+
+Variables
+ Tipos de datos
+ Operadores
+Funciones
+Condicionales
+Arrays
+Métodos de arrays
+
+Cada uno de estos temas va a ser abordado con una introducción, una explicación del docente mediante un video, una presentación para resumir y luego un ejercicio para poner en práctica.
+
+Al ser contenidos fundamentales para la cursada, recomendamos realizar todas las actividades que proponemos. Sin embargo, si recordamos todo lo que vimos en el prework, podemos arrancar por los ejercicios. En caso de no poder resolverlos, podemos acudir a la explicación del video o al resumen en presentación.
+
+Si luego de abordar los temas a través de las distintas explicaciones, todavía tenemos dificultades con algún ejercicio, podemos consultar en Slack a los compañeros o a la dupla docente.
+
+Para finalizar la clase propondremos una actividad para prepararnos para la clase en vivo.

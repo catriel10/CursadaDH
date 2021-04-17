@@ -1,0 +1,23 @@
+Arrow functions
+Como ya vimos en la clase anterior, una función es un bloque de código que podemos invocar todas las veces que necesitemos. Puede realizar una tarea específica y retornar un valor. Nos permite agrupar el código que vayamos a usar muchas veces.
+
+
+
+Las arrow functions nos permiten escribir funciones con una sintaxis más compacta.
+
+
+Estructura de una arrow function
+Comparemos la estructura de una función habitual con su versión reducida. Ambas realizan la misma tarea: sumar dos números.
+
+    
+
+// Función convencional 
+
+  function sumar(n1,n2) {
+    return n1 + n2
+  }
+  
+// Arrow function
+
+let sumar = (n1,n2) => n1 + n2
+    

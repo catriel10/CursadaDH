@@ -1,0 +1,27 @@
+/*La cursada
+Como ya les contamos anteriormente, la experiencia que les proponemos consta de:
+
+Clases virtuales
+Clases en vivo
+Clases de práctica
+Veamos en profundidad cómo sería una semana de cursada para que podamos organizarnos mejor. Además, les contamos cómo vamos a trabajar a lo largo de la cursada y qué condiciones se tienen que cumplir para aprobar el curso.
+
+
+Descargar
+¿Cómo aprobamos el curso?
+Nuestra forma de evaluar si están preparados o no para salir al mercado laboral está compuesta de estos cuatro ítems que les presentamos anteriormente:
+
+Aprobación del proyecto integrador grupal.
+Realizar las actividades propuestas en Playground.
+Asistencia a las clases en vivo.
+Entrega de ejercicios individuales.
+Sabemos que si cumplen con estos requisitos, van a poder trabajar como desarrolladores jr.
+Queremos contarles por qué elegimos estos ítems como requisitos para la aprobación del curso y en qué consisten:
+
+Asistencia: consideramos que el espacio de clase es una instancia fundamental, donde sucede lo sustancial del curso: explicaciones, casos, talleres, trabajo en el proyecto integrador. Esto no puede ser reemplazado mediante el trabajo individual o por fuera del establecimiento con otros materiales. Se deberá tener un 90% de asistencia.
+Ejercicios individuales: son ejercicios puntuales seleccionados de entre los que se realizan en las clases en vivo. No se preocupen, les vamos a avisar con anticipación.
+ Proyecto integrador: tendremos en cuenta el 80% de aprobación de las instancias parciales (sprints) con sus requerimientos técnicos y su respectiva entrega en tiempo y forma. En caso de que no se cumplan todos los requerimientos, se acumulan para el siguiente sprint o entrega. Además, es importante que tengamos realizados el 100% de los requerimientos obligatorios al finalizar la cursada en la entrega final del proyecto.
+Dentro de los sprints se pedirán distintas entregas para visualizar el trabajo en equipo. Algunas de estas visualizaciones son: entregas de retrospectivas y el tablero de Trello.
+El proyecto será evaluado con una rúbrica en la que se podrán encontrar todos los requerimientos, habilidades y herramientas que tendremos en cuenta para su aprobación. Brindaremos una devolución luego de cada entrega parcial para poder mejorar en la siguiente iteración.
+Actividades en Playground: son muy importantes para llegar preparados a la clase en vivo. Por eso, vamos a tener en cuenta la realización de las ejercitaciones propuestas y una actividad de reflexión sobre el aprendizaje al finalizar cada módulo.
+Ante cualquier duda sobre los criterios de aprobación o los avances en el curso, es importante que nos comuniquemos con la dupla docente o la tutora del Departamento de Alumnos.*/

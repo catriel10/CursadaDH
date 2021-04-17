@@ -1,0 +1,2 @@
+JSON
+En la web, la mayoría de las peticiones y sus respuestas viajan como texto plano, es decir, texto sin codificaciones especiales. Vamos a conocer una de las maneras mediante la cual los sistemas se pueden interconectar. Esto va a ser fundamental en las próximas clases. ¡Comencemos!

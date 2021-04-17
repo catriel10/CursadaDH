@@ -1,0 +1,2 @@
+Métodos de strings
+Antes de meternos a fondo con los métodos de string, recordemos que, en muchos sentidos, para JavaScript un string no es más que un array de caracteres. Esas cadenas de texto que parecen ser tan sencillas, pero que tienen un alto potencial. En el siguiente video veremos que podemos hacer mucho más con un string que generar textos.

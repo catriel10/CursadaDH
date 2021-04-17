@@ -1,0 +1,14 @@
+/*¿Cómo enseñamos?
+Queremos contarles nuestra metodología de enseñanza y aprendizaje, la experiencia de la cursada y el calendario de cursada.
+
+
+Aula invertida
+Es una metodología que propone transferir parte del aprendizaje fuera del aula con el objetivo de utilizar el tiempo de clase en vivo para abordar cuestiones complejas, fomentar la interacción y el aprendizaje significativo.
+
+En nuestro modelo de aprendizaje promovemos la idea de trabajar en la resolución de problemas mediante proyectos que recreen situaciones reales y mediante desafíos similares a los que nos enfrentaremos en el mercado laboral. Por eso, a lo largo de toda la cursada trabajaremos en equipo para realizar un proyecto integrador.
+
+Nuestro interés pedagógico como institución está vinculado con la comprensión y las capacidades de desarrollo de los estudiantes para pensar y conocer cada vez mejor. Buscamos que al finalizar el curso cada uno de nosotros pueda trabajar como desarrollador jr. y estar listos para enfrentarnos a los desafíos de un trabajo en el ámbito de lo digital.
+
+Descargar
+Tráiler storytelling
+*/

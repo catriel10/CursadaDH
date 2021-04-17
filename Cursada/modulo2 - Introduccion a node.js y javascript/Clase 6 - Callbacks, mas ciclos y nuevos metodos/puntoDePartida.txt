@@ -1,0 +1,24 @@
+Punto de partida
+Llegamos a las últimas clases de JavaScript, pero no hay que ponernos tristes. JavaScript nos acompañará a lo largo de toda la cursada. Así que prepárense para caminar de la mano junto con él por mucho más tiempo.
+
+Revisemos un poco qué hemos aprendido hasta acá:
+
+ Aprendimos a trabajar con Node.js (que no es poca cosa).
+ Sabemos qué son los módulos y la importancia de los mismos.
+Emprolijamos nuestros conocimientos base de JavaScript.
+Aprendimos acerca de los objetos literales y de su gran importancia dentro de los entornos de Node.js.
+Sabemos que existen varias formas más de iterar arrays que el tradicional for.
+Ya sabemos usar funciones de tipo arrow.
+Entendimos la importancia del formato JSON y ahora ya sabemos que no es el villano de las películas.
+Y un montón de cosas más...
+Ahora, ¿qué vamos a estar haciendo en esta clase con todo esto? Veamos las tareas que desarrollaremos.
+
+
+
+
+Objetivos
+ Retomaremos los conceptos vistos en la clase virtual para introducirnos en las herramientas más avanzadas de JavaScript.
+Implementaremos lógica de JavaScript utilizando: condicionales tradicionales y condicionales de tipo switch, para poder hacer una determinada tarea, en función de ellos.
+ Finalizaremos la aplicación de notas que empezamos la clase pasada para que ahora quede 100% funcional y sea uno de tus primeros proyectos hechos con JavaScript del que te sientas orgulloso.
+Sentiremos el "pecho inflado" por terminar con honores el primer módulo de la cursada de Programación Web Full Stack y esperaremos con ansias los demás módulos por venir.
+Terminando la app de notas

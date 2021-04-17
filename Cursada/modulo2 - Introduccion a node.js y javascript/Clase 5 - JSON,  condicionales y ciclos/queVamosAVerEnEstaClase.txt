@@ -1,0 +1,11 @@
+¿Qué vamos a ver en esta clase?
+Esta es la segunda de las tres clases virtuales de JavaScript. Estos son los temas que abordaremos:
+
+JSON
+Métodos de strings
+Objetos literales
+Arrow functions
+Condicionales
+Repaso del ciclo for
+While y Do - While
+Recomendamos, a lo largo de toda la clase, utilizar la cheat sheet que compartimos en la clase anterior e ir completándola. Esto va a servir mucho a la hora de recordar los conceptos y la sintaxis de las herramientas de JavaScript que usaremos durante toda la cursada.

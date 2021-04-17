@@ -1,0 +1,19 @@
+Tipos de datos
+Como ya vimos a lo largo del prework, JavaScript maneja distintos tipos de datos que son bastante importantes y vale la pena tener siempre presentes.
+
+Tomémonos el tiempo de repasarlos, ya que van a ser clave de aquí en adelante. Cada tipo de dato tiene características y particularidades que le son propias y que le permiten definir un contexto correcto dentro del cual puede ser utilizado.
+
+Para conocer
+
+¿Qué son las buenas prácticas en la escritura del código y por qué son importantes?
+Imaginemos por un segundo que al momento de comprar un electrodoméstico, este no viniera con su guía de instrucciones y manual de uso. Dentro de este escenario, es probable que aquellas personas que no estén familiarizadas con su funcionamiento se sientan algo frustradas y confundidas, pues van a sentir que no pueden hacer un uso completo del producto.
+
+En programación sucede algo similar, pues algo fundamental del proceso de escritura de código es tener en cuenta que, en algún momento, otras personas van a interactuar con el código que estamos escribiendo. Por eso es importante tener una serie de guías y parámetros que nos permitan poder leer el código de cualquier otra persona de la manera más sencilla y entendible.
+
+Debido a esto, las buenas prácticas de escritura son parte fundamental del proceso de programar. Estas nos permiten generar un contexto dentro del cual, tanto nosotros como toda persona que interactúe con el código, podamos entender fácilmente la finalidad para la cual fue creado.
+
+Una de las buenas prácticas es el uso de los comentarios. Estos nos permiten generar un pequeño relato del porqué estamos creando dichos bloques de código.
+
+Un comentario es una particularidad del lenguaje de programación destinada a insertar anotaciones descriptivas respecto al código escrito y destinadas para cualquier persona que se vaya a relacionar con dicho código.
+
+Estas anotaciones son ignoradas por los compiladores e intérpretes de código y son exclusivamente pensadas para los seres humanos. Su propósito es hacer que el código sea más fácil de entender, pensando en su futuro mantenimiento o reutilización.

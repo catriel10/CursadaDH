@@ -1,0 +1,7 @@
+Hacia la clase en vivo
+En la clase en vivo vamos a trabajar retomando los contenidos vistos en esta clase, por lo que recomendamos traer todas las dudas que surjan. Podemos chequear si estamos preparados con las siguientes preguntas o elaborar las propias.
+
+ ¿Qué es un callback?
+ ¿Cuáles son los nuevos métodos de arrays que aprendimos? ¿Qué podemos hacer con ellos?
+¿Cómo trabajar con fechas en JavaScript?
+¿Cómo sacar parte del contenido de un array/objeto literal?

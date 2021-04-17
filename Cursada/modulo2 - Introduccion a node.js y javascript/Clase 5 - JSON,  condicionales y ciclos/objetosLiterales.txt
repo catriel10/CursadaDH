@@ -1,0 +1,3 @@
+Objetos literales
+Al comenzar la clase, presentamos el formato JSON como una forma de transmitir información entre sistemas y dijimos que tiene una estructura muy similar a la de un objeto literal. Pero ¿qué es un objeto literal? Podemos decir que son la representación en código de un elemento de la vida real.
+

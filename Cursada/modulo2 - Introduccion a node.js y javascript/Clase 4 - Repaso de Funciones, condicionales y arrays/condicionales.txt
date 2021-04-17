@@ -1,0 +1,11 @@
+Condicionales
+¿Qué pasa, si estando en casa, se corta la luz y no podemos seguir viendo ese capítulo de la serie en Netflix? ¿Tomamos un libro y empezamos a leerlo o nos damos un respiro y salimos al balcón a respirar un poco de aire?
+
+Ese tipo de decisiones las podemos tomar también al momento de escribir código al programar. Para ello se usan los mecanismos de control de flujo, también llamados condicionales, ya que nos permiten evaluar condiciones y realizar diferentes acciones según el resultado de dicha evaluación.
+
+El if
+
+En resumen
+
+Descargar
+Es una buena práctica iniciar la variable con el tipo de dato que vamos a almacenar. De esa manera queda más claro para qué se van a utilizar.

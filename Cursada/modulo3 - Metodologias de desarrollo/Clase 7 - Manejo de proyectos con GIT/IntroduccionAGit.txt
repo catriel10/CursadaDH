@@ -1,0 +1,10 @@
+Introducción a Git
+¿Cómo se trabaja en forma colaborativa en un ambiente profesional? ¿Nos mandamos mails con código?, ¿mensajes de WhatsApp?, ¿usamos Google Drive? Mmm... ¿Medio raro, no?
+
+Definitivamente no usamos nada de esto, pero utilizamos una herramienta que tiene muchos de los beneficios que nos dan las que nombramos anteriormente: trabajar en grupo de forma colaborativa, comunicar cambios, manejar distintas versiones. Como dijimos al principio del módulo, vamos a conocer una herramienta que nos va a servir durante toda la cursada.
+
+Para conocer
+
+Para repasar
+¡Este cuestionario ya lo contestaste!
+Resultados

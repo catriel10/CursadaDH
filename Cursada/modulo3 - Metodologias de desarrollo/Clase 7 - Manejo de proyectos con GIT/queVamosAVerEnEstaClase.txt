@@ -1,0 +1,24 @@
+¿Qué vamos a ver en esta clase?
+
+Vamos a empezar con la primera de las tres clases de este módulo para aprender una herramienta que nos acompañará a lo largo de la cursada: Git.
+
+Es muy útil para compartir proyectos con distintas personas, tener varias versiones de un mismo proyecto y poder guardar proyectos en la nube.
+
+Es por esto que es una de las herramientas más requeridas por el mercado a la hora de trabajar con control de versiones y de forma colaborativa.
+
+Como muchas de las herramientas que veremos a lo largo de la cursada, Git requiere de práctica y tiene muchos accesorios que agregan funcionalidades, pero en esta clase nos centraremos en sus cuestiones principales.
+
+
+
+Estas son las cuestiones que abordaremos en esta clase:
+
+ Introducción a Git
+ Instalación de Git
+Uso de GitHub y creación de repositorios remotos
+ Creación de repositorios locales
+ Agregado de archivos al repositorio local
+Confirmación de archivos en el repositorio local
+ Subida de archivos al repositorio remoto
+ Bajada de archivos desde un repositorio remoto
+ ¿Cómo resolver conflictos?
+Para esta clase necesitamos tener bien claros los comandos de la terminal. Si no los recordamos, podemos usar la guía que proporcionamos en la clase de uso de herramientas.

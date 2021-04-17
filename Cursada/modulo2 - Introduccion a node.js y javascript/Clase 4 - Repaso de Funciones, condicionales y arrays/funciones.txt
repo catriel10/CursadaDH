@@ -1,0 +1,21 @@
+Funciones
+A todo el mundo le encanta la pizza, pero ¿qué pasaría si tuviéramos que preparar una pizza todos los días? Hacer la masa se convertiría en un proceso muy desgastante y repetitivo. Seguramente, diríamos "qué lindo sería tener una máquina para hacer masas de pizza", para lograr que el proceso de preparación sea algo más ameno y rápido.
+
+Bajo un contexto similar es que se usan las funciones en JavaScript. Una función es un bloque de código que definimos una sola vez y que podemos ejecutar todas las veces que necesitemos. Si bien puede realizar una o varias tareas específicas, es importante tener en cuenta que SIEMPRE retornará un solo valor (la máquina de masas de pizza solo sirve para eso, no para preparar un café).
+
+Las funciones en JavaScript nos permiten agrupar uno o varios bloques de código, que estamos seguros que vamos a reutilizar muchas veces.
+
+Es importante diferenciar claramente dos momentos:
+
+El momento de definir lo que hará la función.
+El momento de ejecución de la función.
+En el primer momento se da el armado de la función y de toda su lógica interna. Es decir, es donde definimos qué queremos que haga.
+
+Mientras que el segundo momento hace referencia a cuando se usa la función. Es decir, es el instante justo donde necesitamos ponerla en marcha.
+
+Para ver todo esto más claramente y refrescar un poco lo que vimos en el prework, compartimos el siguiente video que seguramente despejará las dudas.
+
+Repaso de funciones
+
+En resumen
+

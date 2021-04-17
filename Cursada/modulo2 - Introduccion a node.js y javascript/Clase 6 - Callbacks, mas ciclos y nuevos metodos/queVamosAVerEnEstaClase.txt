@@ -1,0 +1,27 @@
+¿Qué vamos a ver en esta clase?
+Llegamos a la última clase de Introducción a Node.js y JavaScript. En esta clase veremos los siguientes temas:
+
+Callbacks
+Métodos de arrays (Parte 2)
+Objeto Date()
+ Destructuring
+ Spread operator
+Cada uno de estos temas, al igual que en las clases anteriores, tendrá una pequeña introducción, un video explicativo, una presentación a modo de resumen y algunos ejercicios para repasar o poner en práctica los distintos conceptos y herramientas. ¡Empecemos!
+
+Callbacks
+En JavaScript las funciones son un tipo de dato más y podemos tenerlas dentro de variables o recibirlas como argumento de una función, tal cual nos pasa con datos numéricos, arrays o cualquier otro. Esto nos permite hacer cosas súper interesantes y potentes, pudiendo aprovechar, por ejemplo, el uso de callbacks. ¿De qué se trata esto? Bueno, si podemos recibir como argumento de una función, otra función y luego ejecutar ese argumento… ¿qué sucederá?
+
+Métodos de arrays II
+Como te contamos en la clase anterior, JavaScript nos provee de varios métodos para ejecutar sobre arrays, dándonos así un abanico de herramientas para poder trabajar con ellos.
+
+Para poder utilizar estos métodos es necesario tener bien presente la definición de callback. Como ya sabemos, las funciones pueden recibir uno o más parámetros. En caso de recibirlos, estos pueden ser, entre otros: un número, un string, un booleano o también... ¡una función! Cuando un método o función recibe a una función como parámetro, a esa función se la conoce como callback.
+
+
+
+Veremos los métodos:
+
+ map
+ filter
+ foreach
+ reduce
+¿Para qué sirven?

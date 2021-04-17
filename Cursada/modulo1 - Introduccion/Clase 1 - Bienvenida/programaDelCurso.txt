@@ -1,0 +1,42 @@
+/*Programa del curso
+¿Cuál es nuestro objetivo?
+En el curso de Programación Web Full Stack nos proponemos adquirir y desarrollar las herramientas, habilidades y conocimientos técnicos necesarios para resolver situaciones que se nos presentarán en la vida real. También buscaremos aprender a “pensar como programador”, habilidad que incluye desde armar un sistema hasta lograr identificar errores en este, proponer soluciones y actualizar en base a cambios en las tecnologías.
+
+Buscaremos fomentar constantemente la investigación, la búsqueda de información, la lectura de documentación técnica y el trabajo en equipo.
+
+¿Qué vamos a lograr en el curso?
+Adquirir los conocimientos necesarios para desarrollar un sitio web de punta a punta integrando front-end y back-end.
+Identificar fallas en un proyecto e implementar las modificaciones necesarias para resolverlo.
+Trabajar en equipo.
+Saber a qué documentación y comunidades recurrir para resolver problemas y mantenerse actualizado en cada uno de los lenguajes aprendidos.
+ Trabajar con frameworks para poder generar proyectos escalables, seguros y eficientes.
+¿Qué vamos a aprender en el curso?
+Introducción al curso
+Bienvenidos al curso e inmersión en las nuevas herramientas que utilizaremos a lo largo de la cursada. Conoceremos la terminal, Visual Studio Code y muchas herramientas más.
+
+Metodologías de desarrollo
+Aprenderemos metodologías y herramientas de trabajo que se utilizan en el ámbito del desarrollo como Git y Scrum.
+
+Express
+Desarrollaremos el concepto de Full Stack al unir el mundo del front-end con el back-end. Para esto utilizaremos el framework más usado en el ecosistema de Node.js.
+
+JavaScript para front-end
+Vamos a agregar dinamismo e interactividad a nuestro front-end.
+
+React
+Crearemos una aplicación con React. Trabajaremos con componentes y su ciclo de vida. Para finalizar, enlazaremos todo esto.
+
+Introducción a Node.js y JavaScript
+Vamos a conocer el potencial que nos brinda este lenguaje y experimentar la diversidad de aplicaciones que se pueden realizar gracias al entorno de desarrollo de Node.js.
+
+Anatomía de un sitio web
+Comprenderemos cómo se estructura un sitio web y cómo podemos darle estilo y diseño a esa estructura.
+
+Base de datos
+Conoceremos qué son las bases de datos y cómo podemos operar sobre estas. Trabajaremos con MySQL y Sequelize.
+
+APIs
+Crearemos nuestras propias APIs y aprenderemos a consumir APIs de terceros.
+
+Deploy de un proyecto
+Aprenderemos cómo hacer el deploy de un desarrollo y exponer el proyecto integrador.*/

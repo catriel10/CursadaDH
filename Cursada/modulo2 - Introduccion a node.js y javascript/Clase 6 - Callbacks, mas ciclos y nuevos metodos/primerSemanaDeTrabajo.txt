@@ -1,0 +1,21 @@
+Primera semana de trabajo
+María presenta al equipo un nuevo proyecto para una concesionaria de automóviles, cuya principal línea de negocios es la compra y venta de automóviles. La concesionaria necesita construir una lista con todos los vehículos que tiene registrados. Por cada vehículo necesita conocer la siguiente información:
+
+Marca (Ford, Fiat, etc). (marca)
+ Modelo (Fiesta, Corolla, etc). (modelo)
+ Color (Azul, Rojo, etc). (color)
+ Año de fabricación. (año)
+ Cantidad de kilómetros recorridos. (km)
+Precio final. (precio)
+ Cantidad de cuotas. (cuotas)
+Patente. (patente)
+ Vendido: para indicar si el auto está o no vendido. (vendido)
+María quiere saber con qué tipo de dato representarán a cada vehículo individual. Juan pensó en 3 opciones para el vehículo individual. ¿Podrías ayudarlo a elegir la correcta?
+
+Pensar la pregunta
+¡Este cuestionario ya lo contestaste!
+Resultados
+Aprobando la propuesta de Juan
+¡Este cuestionario ya lo contestaste!
+Resultados
+Aclarado el diseño del sistema. María tiene mucha experiencia, es súper profesional y está un paso adelante nuestro, por eso ella escribió en forma anticipada los tests de nuestro código, para asegurarse que el mismo funcione bien. Además, le pidió algunas tareas a Juan, quien te pregunta cómo él va a poder acceder a los objetos literales que vas a crear si el trabaja en otro archivo.

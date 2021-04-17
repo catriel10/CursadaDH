@@ -1,0 +1,40 @@
+Recibiste un e-mail de Ana Danese
+
+Recibiste un mensaje en Slack de Camila
+
+Metodologías de desarrollo
+¿Qué son las metodologías ágiles de desarrollo?
+
+Las metodologías ágiles son aquellas que permiten adaptar la forma de trabajo a las condiciones del proyecto. Permiten contar con flexibilidad e inmediatez en la respuesta para amoldar el proyecto y su desarrollo a las circunstancias específicas del entorno.
+
+Es un enfoque para la toma de decisiones en los proyectos de software basado en el desarrollo iterativo e incremental, donde los requisitos y soluciones evolucionan con el tiempo según la necesidad del proyecto. El trabajo es realizado mediante la colaboración de equipos autoorganizados y multidisciplinarios, inmersos en un proceso compartido de toma de decisiones a corto plazo.
+
+A lo largo de este módulo, brindaremos las herramientas necesarias para trabajar en equipo y adquirir este enfoque.
+
+
+¿Conocés o tenés alguna idea sobre metodologías de desarrollo?
+¡Este cuestionario ya lo contestaste!
+Resultados
+En las dos clases que componen este módulo nos enfocaremos en aprender a usar Git como herramienta y conocer la metodología Scrum.
+
+Utilizaremos ambas a lo largo de toda la cursada para llevar adelante el proyecto integrador trabajando en equipo y de forma colaborativa.
+
+Primero veremos Git
+Es un sistema cuya principal ventaja radica en que trabaja con un sistema de versiones, pero, al principio, este sistema puede traernos algunos problemas. Por eso, aprenderemos a solucionarlos.
+
+Vamos a trabajar con Git a lo largo de toda la cursada para subir las entregas del proyecto integrador. También podremos usar un repositorio propio (tranquilos, ya vamos a ver qué es un repositorio) donde podremos guardar nuestros proyectos.
+
+El trabajo con Git requiere tener muy en claro la secuencia de pasos necesaria para manejar un repositorio. En los contenidos vamos a encontrar información que nos permitirá conocer estos pasos. Recomendamos armar un paso a paso propio para poder tenerlo a mano siempre que lo necesitemos.
+
+Seguiremos con Scrum
+Es una metodología de trabajo que forma parte de lo que se denomina metodologías ágiles. Conoceremos sus ventajas y desventajas, y aplicaremos algunas de sus herramientas al desarrollo del proyecto integrador.
+
+Trabajaremos con Scrum directamente en la clase presencial y en esa misma clase definiremos los equipos con los cuales llevarán adelante el proyecto integrador.
+
+Objetivos del módulo
+ Identificar las ventajas de un sistema de versionado.
+Conocer los potenciales problemas y ventajas que surgen al utilizar un sistema de versionado.
+ Diagramar la secuencia de pasos que suceden al manejar un repositorio como Git.
+ Realizar los pasos básicos y comunes del uso de Git a través de alguna herramienta, ya sea la terminal o un aplicativo.
+Conocer las ventajas y desventajas de las metodologías de trabajo.
+Implementar prácticas de distintas metodologías de trabajo, puntualmente enfocando metodologías ágiles y Scrum.

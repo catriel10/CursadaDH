@@ -1,0 +1,25 @@
+Destructuring
+¿Qué es destructuring? Si buscamos en el sitio developer.mozilla.org (que dicho sea de paso es un gran sitio para buscar dudas sobre conceptos y herramientas de programación), vamos a encontrar lo siguiente: La sintaxis de asignación de desestructuración (destructuring assignment) es una expresión que posibilita la extracción de datos, tanto de arreglos (los famosos arrays) como de propiedades de objetos, en variables distintas. Pasemos al video para entender mejor qué significa.
+
+
+Destructuring, ¿para qué sirve?
+Tratemos de esclarecer este concepto tan complicado viendo cuál es su función:
+
+
+Destructuring nos permite extraer datos de arrays y objetos literales de una manera más sencilla y fácil de implementar.
+
+En resumen
+
+Descargar
+Destructuring
+Desestructuremos.
+Para este ejercicio contamos con un array de destinos del mundo ya definido.
+
+Queremos, usando destructuramiento, definir las variables bariloche y china, y extraer del array únicamente los destinos "Bariloche" y "China".
+
+Dame una pista
+cuboPlaygroundStudio
+SRC
+script.js
+(0) OPEN FILES
+logodh

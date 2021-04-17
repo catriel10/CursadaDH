@@ -1,0 +1,7 @@
+Spread operator y rest parameter
+Para finalizar esta clase veremos dos nuevas herramientas:
+
+spread operator (operador de propagación)
+rest parameter (parámetro rest)
+
+En resumen

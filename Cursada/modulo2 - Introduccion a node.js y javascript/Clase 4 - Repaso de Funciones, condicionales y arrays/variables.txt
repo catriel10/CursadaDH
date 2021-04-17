@@ -1,0 +1,2 @@
+Variables
+En este video presentamos las variables. Estas nos permiten almacenar datos en nuestros programas y muchas cosas más. Vamos a ver los distintos tipos de variables que hay, para qué se usan y algunos ejemplos.

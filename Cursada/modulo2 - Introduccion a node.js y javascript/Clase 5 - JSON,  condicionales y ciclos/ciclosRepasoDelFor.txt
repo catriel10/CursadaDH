@@ -1,0 +1,12 @@
+Ciclos: repaso del for
+Puede que esto de los ciclos nos resulte conocido porque lo utilizamos a lo largo del prework y en el desafío, pero vamos a recordar un poco. Un ciclo, ya sea en programación o la vida cotidiana, es una serie de estados por los que pasa un acontecimiento o fenómeno, que se repiten siempre en el mismo orden. En programación para hacer que nuestro código se siga ejecutando, mientras una condición se cumpla, utilizamos el for.
+
+
+Estructura básica
+Consta de tres partes que definimos dentro de los paréntesis. En conjunto, nos permiten determinar de qué manera se van a realizar las repeticiones y definir las instrucciones que queremos que se lleven a cabo en cada una de ellas.
+
+    
+
+for(inicio, condicion, modificador) {
+    // Código que se ejecutará en cada repetición
+}

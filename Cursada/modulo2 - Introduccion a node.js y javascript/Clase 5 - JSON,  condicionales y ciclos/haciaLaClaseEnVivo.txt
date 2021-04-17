@@ -1,0 +1,22 @@
+Hacia la clase en vivo
+En la clase en vivo vamos a trabajar retomando los contenidos vistos en esta clase, por lo que recomendamos traer todas las dudas que surjan. Podemos chequear si estamos preparados con las siguientes preguntas o elaborar las propias.
+
+Una recomendación: podemos escribir las respuestas o aquello que no entendamos en un documento o cuaderno y tenerlo cerca en el momento del repaso.
+
+ ¿Por qué es necesario saber que existe el formato JSON?
+ ¿Qué hace JSON.parse() y para qué sirve?
+ ¿Qué hace el método splice() en un string?
+¿Para qué sirve el método trim() en un string?
+ Si queremos reemplazar una porción de texto dentro de un string, ¿qué podemos usar?
+ ¿Qué es un objeto literal? ¿Cómo lo diferenciamos de un JSON?
+ ¿Qué son las arrow functions? ¿Cuál es su diferencia con las funciones tradicionales?
+¿Cuáles son los nuevos condicionales que aprendimos? ¿En qué se diferencian con los que ya conocíamos?
+ ¿Cuáles son los principales usos del ciclo for?
+
+ Punto de partida
+Llegamos a la segunda de las tres clases de JavaScript. A continuación, compartimos los objetivos de esta clase para tenerlos en cuenta y poder chequear que hayamos entendido todo lo necesario para pasar a los siguientes temas.
+
+Objetivos de la clase
+Retomar los conceptos vistos en la clase virtual.
+ Implementar lógica de JavaScript utilizando: condicionales, acceso a propiedades de objetos literales y asignación de valores a variables con un switch.
+ Comenzar a armar una app de notas

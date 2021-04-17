@@ -1,0 +1,3 @@
+Condicionales (if ternario y switch)
+En la clase anterior vimos que podemos usar el if y el else cuando necesitamos ejecutar una porción de código, siempre y cuando se cumpla la condición. Existen distintas formas o herramientas para aplicar condiciones a nuestro código. En esta clase veremos dos de ellas para sumar a las que ya conocemos: if ternario y switch.
+

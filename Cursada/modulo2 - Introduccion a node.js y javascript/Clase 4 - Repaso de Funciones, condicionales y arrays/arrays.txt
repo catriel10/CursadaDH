@@ -1,0 +1,17 @@
+Arrays
+¿Cómo podemos agrupar mucha información en una sola variable? Para ello contamos con un tipo de dato un poco más estructurado llamado array, también conocido como lista o arreglo.
+
+Para conocer
+
+En resumen
+
+Descargar
+
+Métodos de arrays
+Ahora que ya sabemos que un array es una colección de datos ordenados.
+
+¿Cómo podemos hacer para manipular los datos presentes en un array? ¿Qué pasaría si, por ejemplo, queremos agregar o sacar datos a un array existente?
+
+Los arrays en JavaScript tienen muchas funciones llamadas métodos que nos van a permitir manipular los datos presentes en ese arreglo.
+
+¡Veamos cuáles son esos métodos!

@@ -1,0 +1,14 @@
+/*Introducción a Node.js y JavaScript
+Vamos a empezar a conocer el potencial de este lenguaje y experimentar la diversidad de aplicaciones que se pueden realizar gracias al entorno de desarrollo de Node.js. Recordemos el programa que mostramos en la primera clase.
+
+Usted esta aquí
+
+Objetivos del módulo
+Diferenciar los distintos componentes que componen el ecosistema de Node.js.
+ Ante las acciones que realizan dos computadoras: distinguir entre servidor y cliente.
+ Separar responsabilidades en módulos para luego exportarlos e incorporarlos para su uso.
+Conocer la utilidad de npm.
+ Adquirir las bases de la programación.
+Entender cómo funciona JavaScript.
+ Usar la terminal y desarrollar una aplicación de escritorio haciendo uso de ella.
+ Diferenciar tipos de datos, declarar funciones y conocer las estructuras de control.*/
