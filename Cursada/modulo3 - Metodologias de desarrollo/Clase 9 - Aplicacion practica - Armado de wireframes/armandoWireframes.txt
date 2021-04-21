@@ -1,0 +1,8 @@
+Armando wireframes
+¿Se puede empezar a construir un edificio sin tener ningún tipo de plano? ¿Sin saber qué materiales se van a usar para la construcción o cuántos pisos va a tener?
+
+¡Claro que no! Porque sin un rumbo claro es imposible que todas las personas involucradas en la construcción puedan llegar a un mismo producto final. Sería un caos total.
+
+Los wireframes y los diseños son los planos de un sitio o aplicación. Nos dicen cómo está conformada la estructura y qué es cada elemento. Permiten que todas las personas involucradas en el proyecto tengan una clara referencia de cómo se espera que quede armado el sitio o la aplicación.
+
+Vamos entonces a descubrir cómo podemos armar nuestro primer wireframe.

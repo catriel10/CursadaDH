@@ -1,0 +1,36 @@
+Para saber más
+En esta sección vamos a encontrar información extra, enlaces de interés, sitios para visitar y otras cuestiones que nos pueden interesar para aprender más sobre Git, Scrum y metodologías de desarrollo.
+
+Buenas prácticas de metodologías de desarrollo
+Los comandos de Git
+
+Sitios de interes
+Git interactivo con guía: es un sitio que propone desarrollar los conceptos de Git en forma guiada y gráfica.
+ Sitio web que traduce acciones a comandos de Git: en este sitio indicamos qué cosas queremos hacer con Git y nos dice qué comando tenemos que ejecutar.
+Otras plataformas
+Si bien GitHub es la plataforma de Git en la nube más usada en el mundo, no es la única que hay. Otras de las opciones disponibles son:
+
+GitLab: se enfoca en flujos de trabajo más complejos, automatización de procesos y revisión de código.
+ BitBucket: también se centra en flujos de trabajo más complejos y trae integración nativa con otras herramientas de seguimiento como Jira y Trello.
+Cuál utilizar dependerá de las necesidades del proyecto a desarrollar y será cuestión de investigar cuando llegue el momento de elegir una plataforma de control de versiones. De momento, GitHub cumplirá con todas las necesidades que tiene el proyecto integrador.
+
+Manifiesto Agile
+El Manifesto Agile surgió de una reunión encabezada por grandes líderes de equipos técnicos, los mismos dejan en existencia este testamento en el siguiente enlace.
+
+Silicon Valley
+Te dejamos este recorte de una serie parodia del mundo de la programación. En el video muestran cómo toman ciertas herramientas ágiles de Scrum y logran implementarlas en el equipo.
+
+https://www.youtube.com/watch?v=Zc6pnc3Ch6Y
+
+Ejemplo de daily meeting
+Te invitamos a ver este video donde hacen una daily y explican sus beneficios.
+
+https://www.youtube.com/watch?v=16IoziutCZs
+
+Material de agilidad / Scrum
+Te recomendamos este canal de YouTube:
+
+https://www.youtube.com/channel/UC_qAGlRbDj0MIagYX3g9vDw
+¿Cómo planificar un sprint? https://www.youtube.com/watch?v=FhiOeECwsS8
+ ¿Qué es y cómo hacer la daily? https://www.youtube.com/watch?v=16IoziutCZs
+¿Cómo crear un buen perfil en GitHub?

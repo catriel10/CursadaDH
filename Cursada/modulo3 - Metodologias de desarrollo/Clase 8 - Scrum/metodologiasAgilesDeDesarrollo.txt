@@ -1,0 +1,8 @@
+Metodologías ágiles de desarrollo
+A lo largo de la historia son, a menudo, las crisis las que despiertan los cambios más profundos. La programación tuvo muchos momentos de crisis y uno de ellos, sin duda, está relacionado con las metodologías de desarrollo.
+
+Ya habían pasado algunos años desde la popularización de la metodología de cascada, el mundo del desarrollo de software cambiaba cada vez más rápido y, como sabemos, las metodologías de cascada o secuenciales no se llevan bien con el cambio.
+
+Recorramos el nacimiento y crecimiento de las metodologías ágiles de desarrollo.
+
+¿Cómo surgieron las metodologías ágiles de desarrollo y qué son?

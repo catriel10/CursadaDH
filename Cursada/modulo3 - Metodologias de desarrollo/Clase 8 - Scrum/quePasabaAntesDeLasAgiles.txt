@@ -1,0 +1,8 @@
+¿Qué pasaba antes de las metodologías ágiles?
+¿A quién no le gusta una buena historia? Sin duda, la historia de las metodologías de desarrollo de software es una de ellas.
+
+Desde la revolución industrial hasta el día de hoy, la humanidad no ha parado de perseguir la automatización de tareas, y el desarrollo de software es uno de los mejores ejemplos que tenemos.
+
+Descubramos cómo fue que se iniciaron estas metodologías y hasta dónde llegaron antes de que aparecieran las prácticas modernas de desarrollo de software.
+
+Hagamos un poco de historia

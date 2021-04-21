@@ -1,0 +1,55 @@
+Sprint 1
+Bienvenidos, ha llegado el momento de arrancar con ¡el proyecto integrador!
+> Requisitos
+Grupos definidos: Para poder iniciar el trabajo integrador, deberá estar conformado el grupo de trabajo. El mismo deberá ser como máximo de tres integrantes.
+Cuenta de GitHub: Todas las entregas se harán, sin excepción, en repositorios públicos de GitHub. Todo el grupo deberá contribuir, sin excepción, al mismo repositorio.
+> Objetivo
+Nuestro cliente DH Venture Capitals ha puesto en sus manos el desarrollo de un e-commerce para poner a prueba el desempeño de nuestro equipo al trabajar con Node.js y React. 
+
+El cliente solicita que sean ustedes quienes elijan la temática del sitio y que presenten un boceto gráfico de las principales secciones a implementar, antes de comenzar con el proceso de desarrollo.
+
+> Metodología
+Cómo quizás ya lo imaginan, nuestro cliente pide que, a la hora de desarrollar, se implemente un sistema de trabajo basado en las metodologías ágiles.
+El desarrollo se dividirá en iteraciones, o hablando en el lenguaje ágil: sprints. Este sprint será el primero de ocho que abarcarán la totalidad de las temáticas del curso.
+Su rol será el de desarrollar el sitio asegurándose de que: 
+Sea estéticamente agradable (UI - User Interface).
+Sea fácil de usar (UX - User Experience).
+Sea funcional y cumpla con los requisitos del cliente.
+Las entregas se cumplan en tiempo y forma.
+Nuestro rol como product owners será el de mediar entre ustedes y 
+el cliente asegurándonos que: 
+Los requerimientos sean claros.
+Tengan los conocimientos adecuados en cada etapa.
+Se destraben las situaciones que detengan el desarrollo.
+El código producido sea mantenible y comprensible.
+
+
+> Consignas
+Durante este sprint, trabajarán en definir la temática del sitio y, luego, producirán un boceto gráfico que les guiará durante todas las etapas del desarrollo.
+No se dejen engañar por la simpleza de las consignas, la etapa de planificación e investigación es de las más importantes de cualquier proyecto. De hecho, la gran mayoría de los proyectos que fallan, lo hacen por no haber hecho bien esta tarea.
+Crear el repositorio del proyecto y agregar colaboradores
+El nombre del repositorio será grupo_#_nombre donde # será su número de grupo y nombre será el nombre del proyecto.
+Deberán agregar como colaboradores al resto de los integrantes del grupo.
+Entregable: URL del repositorio.
+_______________________________________________________________________________________
+Definir la temática del Market Place
+¿Qué productos o servicios brindará nuestro sitio? ¿Quién será nuestra audiencia objetivo? ¿Cómo ajustaremos nuestra oferta a ese público?
+Entregable: Crear archivo README.md en el repositiorio con:
+Una breve descripción de la oferta de productos y/o servicios ofrecidos por su sitio. También agregar una breve descripción del público al que apunta el sitio.
+Una breve descripción de los integrantes del equipo.
+_______________________________________________________________________________________
+Buscar inspiración en referentes del mercado 
+Pablo Picasso dijo alguna vez: “Los grandes artistas copian, los genios roban”. Sea cual sea la idea que tengan para su sitio, es muy posible que haya en Internet muy buenos referentes de donde inspirarse y tomar ideas.
+
+Deberán realizar una búsqueda de sitios similares, relacionados o que sean de interés:
+Por los productos o servicios que ofrecen.
+Por los clientes a los que apuntan.
+Por la estética que presentan.
+Por las funcionalidades implementadas.
+Entregable: En el README.md agregar un listado de al menos 5 sitios de referencia indicando brevemente por qué fueron elegidos.
+_______________________________________________________________________________________
+Crear un wireframe y un boceto del sitio
+Es necesario que todo el grupo se junte para esta actividad.
+Seguramente se haya hablado un poco de los wireframes durante las clases, pero en caso de que deseen profundizar sobre este tema, les recomendamos el siguiente artículo.
+El wireframe es una representación sencilla de la estructura general y los componentes de nuestro sitio.
+Pueden trabajar sus wireframes en lápiz y papel o bien utilizar una herramienta digital. Cualquier aplicación de diseño gráfico o de interfaces como Illustrator, XD, Sketch u online como Marvel, Figma, Wireframe.cc o Diagrams.net.

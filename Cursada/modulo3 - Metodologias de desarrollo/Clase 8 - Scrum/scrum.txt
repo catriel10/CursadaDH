@@ -1,0 +1,10 @@
+Scrum
+Ya conocemos una parte importante de la historia de las metodologías de desarrollo.
+
+Sabemos que hoy en día es cada vez más común implementar metodologías ágiles porque nos ayudan a llegar en tiempo y forma con las entregas de nuestros proyectos.
+
+Nos toca entonces ir un poco más profundo y recorrer en detalle una de ellas: ¡Scrum!
+
+Descubramos cómo podemos usar Scrum para lograr que nuestros proyectos sean ágiles.
+
+Para conocer

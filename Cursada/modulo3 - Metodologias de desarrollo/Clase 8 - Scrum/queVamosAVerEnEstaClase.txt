@@ -1,0 +1,10 @@
+¿Qué vamos a ver en esta clase?
+
+En esta clase vamos a seguir conociendo herramientas para trabajar en proyectos de desarrollo de forma colaborativa. En el mundo del desarrollo es muy común trabajar con lo que se denomina Agile, o metodologías ágiles, y específicamente con Scrum.
+
+En esta clase introduciremos algunos conceptos para prepararnos para la clase en vivo:
+
+ ¿Cómo se desarrollaba antes de las metodologías ágiles?
+ ¿Qué beneficios tienen las metodologías ágiles?
+¿Qué es Scrum?
+ ¿Cómo podemos implementarlo en nuestros proyectos?
