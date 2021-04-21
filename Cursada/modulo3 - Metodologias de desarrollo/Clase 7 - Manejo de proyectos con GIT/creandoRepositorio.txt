@@ -1,0 +1,13 @@
+Creando nuestro primer repositorio local
+En este video a ver cómo crear un repositorio local y preparar nuestras credenciales para trabajar en forma profesional y colaborativa.
+
+Para conocer
+
+Palabras claves
+A modo de resumen, repasemos las palabras claves de este video:
+
+Repositorio local: es el que tiene todos los archivos (que hayas guardado en él) en nuestra computadora.
+commits : paquetes que nos van a permitir ir haciendo un seguimiento de los cambios que vamos realizando, dado que cada uno de ellos tiene una timestamp, o fecha de creación, y un autor. Los commits van a ser nuestro historial de cambios que se fueron haciendo en el proyecto.
+Comandos paso a paso
+Vamos a ver paso a paso lo que necesitamos hacer para crear nuestro primer repositorio local.
+

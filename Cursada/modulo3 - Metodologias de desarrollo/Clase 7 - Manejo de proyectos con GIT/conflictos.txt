@@ -1,0 +1,9 @@
+Conflictos
+Todo iba de maravilla hasta que alguien decidió modificar el mismo archivo en el que estábamos trabajando y, para nuestra desgracia, hizo el push primero. ¿Hora de entrar en pánico? ¿Tiempo de abandonar la carrera de programación? ¡No, para nada!
+
+Los conflictos son parte natural del trabajo en equipo, y son aún más comunes en proyectos complejos con equipos numerosos.
+
+En el siguiente video veremos cómo darle solución a cada uno de ellos.
+
+
+Tomando decisiones

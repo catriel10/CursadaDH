@@ -1,0 +1,25 @@
+GitHub
+Siguiendo las instrucciones del video, crearemos un repositorio en la nube. Ahora, vamos a poder descargar y modificar el repositorio desde cualquier computadora del mundo. Para poder cumplir con este objetivo vamos a utilizar https://github.com. Pero ¿qué es Github?
+
+
+Es una plataforma colaborativa que nos va a permitir llevar un control de versión sobre nuestro código.
+Para conocer
+
+Palabras clave
+A modo de resumen, repasemos las palabras y conceptos claves del video sobre GitHub:
+
+GitHub es un lugar en la nube.
+ Repositorio: lugar en donde se irán almacenando los archivos de nuestro proyecto y a través del cual podremos hacer seguimiento de los mismos.
+Remotos: viven en la nube, es decir, en GitHub.
+Locales: viven en nuestra computadora.
+
+Descargar
+Pasos para crear nuestro primer repositorio remoto
+1. Una vez creada nuestra cuenta en GitHub hacemos click en New.
+
+
+2. Elegimos un nombre para nuestro repositorio y hacemos click en Create repository.
+
+
+3. Con el link que nos provee GitHub de nuestro repositorio, ingresamos el siguiente comando:
+

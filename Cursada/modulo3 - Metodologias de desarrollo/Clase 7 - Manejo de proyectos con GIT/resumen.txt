@@ -1,0 +1,11 @@
+En resumen
+Para ir terminando esta clase compartiremos algunas herramientas que serán útiles para empezar a trabajar con Git:
+
+Paso a paso descargable con los comandos.
+ Una guía de uso de Git.
+Un flow que será útil para entender los múltiples caminos y procesos que se pueden seguir a la hora de usar Git.
+Una documentación y glosario descargables con las palabras claves y conceptos a tener en cuenta.
+Paso a paso - comandos
+
+Descargar
+Guía de uso
