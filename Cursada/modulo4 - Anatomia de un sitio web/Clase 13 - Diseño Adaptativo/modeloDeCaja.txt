@@ -1,0 +1,14 @@
+Modelo de caja
+El modelo de caja o box model hace referencia a la forma en que TODOS los elementos de HTML se comportan frente a la implementación de determinadas líneas de CSS.
+
+Básicamente, lo que propone este modelo es que pensemos a cada elemento como una caja (de ahí su nombre) que posee cuatro costados (arriba, derecha, abajo, izquierda) y, que a su vez, puede ser afectado por diversas características como lo son:
+
+ El ancho y el alto.
+El relleno entre sus costados y el contenido.
+El ancho, grosor y tipo de línea de sus bordes.
+El distanciamiento entre los demás elementos que lo rodean.
+En este sentido, si llevamos a nuestro cerebro a pensar a cada etiqueta como un elemento que puede ser afectado por lo anterior, vamos a poder entender mucho mejor el flujo que cada elemento presenta respecto a sus elementos hermanos y respecto a su contexto en general.
+
+Si deseamos ir más allá de la simple estilización de textos y fondos, el modelo de caja es, sin duda, una de las piezas fundamentales de CSS.
+
+¡Vamos por más teoría!

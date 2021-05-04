@@ -1,0 +1,10 @@
+¿Qué vamos a ver en esta clase?
+En la clase anterior nos dedicamos a crear la estructura de nuestro sitio, pero todavía se ve un poco feo, ¿no? En esta clase comenzaremos a incorporar algunas herramientas de CSS que nos permitirán darle estilo a nuestro sitio, utilizando colores, fondos y tipografías.
+
+Para esto veremos los siguientes temas:
+
+Introducción a CSS
+Tipografías
+Colores
+Fondos
+Como en la clase anterior, para finalizar, continuaremos integrando todas las herramientas mediante la realización del proyecto

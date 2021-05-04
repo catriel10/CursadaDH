@@ -1,0 +1,10 @@
+Hacia la clase en vivo
+Ahora que conocemos los secretos del diseño adaptativo y cómo generar que nuestros documentos HTML sean 100% responsive, ha llegado el momento de prepararnos para la clase en vivo.
+
+¿Cuáles son los requisitos?
+
+ Haber procesado los conceptos vistos en esta clase.
+Haber realizado la práctica planteada en el video de live coding.
+ Tener listo y completo el material trabajado en las anteriores clases en vivo.
+ Traer muchas ganas, preguntas e ideas para implementar en la práctica.
+¡Nos vemos en clase!

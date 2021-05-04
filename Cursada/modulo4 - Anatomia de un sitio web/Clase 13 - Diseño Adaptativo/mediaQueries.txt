@@ -1,0 +1,6 @@
+Media queries
+Las media queries no son otra cosa más que simples reglas de CSS que agrupan, a su vez, otras reglas que se aplicarán si se cumple una condición determinada. Esta condición generalmente tiene que ver con la resolución de pantalla del dispositivo de salida.
+
+En otras palabras, las media queries nos van a permitir que la estructura de nuestros documentos HTML se conviertan en estructuras adaptativas o responsive.
+
+Un recurso que definitivamente no puede faltar en la mochila de herramientas de un buen desarrollador front-end.

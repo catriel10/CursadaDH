@@ -1,0 +1,5 @@
+Comenzamos a trabajar en un proyecto
+Como mencionamos al empezar este módulo, vamos a trabajar de forma tal que al final de cada clase virtual propondremos realizar un proyecto en el editor de código para que podamos integrar todos los conceptos y herramientas de la clase. Es importante que lo hagamos porque nos sirve de preparación para la clase en vivo.
+
+¿Cómo es la modalidad?
+En los videos veremos primero qué es lo que tenemos que hacer mediante una explicación del profesor. Luego, habrá algunas preguntas y, en las pausas, deberemos realizar lo mismo que hizo el profesor, pero en nuestro propio editor. Podremos volver a ver los videos siempre que lo necesitemos.

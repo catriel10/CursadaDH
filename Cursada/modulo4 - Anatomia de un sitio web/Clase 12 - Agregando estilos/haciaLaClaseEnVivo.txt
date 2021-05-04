@@ -1,0 +1,11 @@
+Hacia la clase en vivo
+En la clase en vivo vamos a trabajar retomando los contenidos vistos en esta clase, por lo que recomendamos traer todas las dudas que surjan. Podemos chequear si estamos preparados con las siguientes preguntas:
+
+ ¿De qué manera podemos vincular el CSS?
+ ¿Cuál es la manera más adecuada y estandarizada de hacerlo?
+ ¿Cuáles son las propiedades de CSS que te resultaron más útiles?
+Y una pregunta que no es fácil de responder, pero que es bueno empezar a pensar o investigar:
+
+ ¿Se te ocurre una buena manera de ordenar y no repetir tu CSS?
+En la clase en vivo seguiremos trabajando en el proyecto Mercado Liebre. Es por eso que debemos traerlo avanzado hasta donde lo dejamos en la última clase en vivo. Esto es importante porque si no resultará más difícil realizar la ejercitación.
+

@@ -1,0 +1,8 @@
+Viewports
+¿Qué es el viewport? En palabras sencillas, es la parte visible de cualquier navegador web, en la cual se puede ver el contenido de la página, sin tener que hacer scroll.
+
+Es decir, que el viewport (en español, puerto visible) es en donde se muestra el contenido de nuestros documentos HTML.
+
+Saber de la existencia de este concepto, y entenderlo, es parte fundamental del desarrollo adaptativo o responsive. Algo que vale la pena tener siempre en mente es que el viewport va a determinar la manera en la que el navegador visualiza el contenido de nuestro sitio web.
+
+Configurando nuestro sitio a distintas resoluciones de pantalla

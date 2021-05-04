@@ -1,0 +1,18 @@
+¿Qué vamos a ver en esta clase?
+Hoy en día un sitio web no se puede catalogar como un sitio 100% bien hecho si no se contempla la versión adaptativa del mismo para las distintas resoluciones de los dispositivos móviles actuales.
+
+Bajo este panorama, es importante entender que muchas de las visitas a un sitio web suelen venir desde un dispositivo móvil y, por esto, nuestro desarrollo debe ser lo más perfecto posible para dar una buena experiencia de usuario. Recordemos que de esto dependerá el concepto que se lleven los usuarios de nuestro sistema.
+
+Pero ¿qué es en sí el diseño adaptativo (también llamado diseño responsive)?
+
+Básicamente, el diseño o desarrollo adaptativo hace referencia a un conjunto de reglas y métodos que se aplican a la estructura de un sitio web para lograr que se adapte, de la mejor manera posible, a las distintas resoluciones de salida. El objetivo es que el contenido del sitio se vea perfectamente desde el punto de vista de los usuarios.
+
+En esta clase vamos a aprender todo lo necesario que debemos tomar en cuenta para lograr un buen sitio responsive. Entre otros, los temas serán:
+
+ Qué es el viewport.
+Cómo configurar el viewport con la etiqueta media.
+Qué son los media queries.
+Qué tipos de media queries existen.
+ Las diferencias entre breakpoints y media queries.
+ Cómo pasar de trabajar con medidas absolutas a medidas relativas.
+Estos temas y algunos más, nos va a permitir encarar, a partir de ahora, nuestros proyectos integradores desde otro ángulo. Entenderemos el importante concepto de mobile first y sabremos implementar todo lo aprendido. Podremos hacer, con nuestras estructuras de HTML, un sitio 100% funcional y responsive que sea fácil de consumir desde cualquier tipo de dispositivo, sin importar las resoluciones de salida del mismo.

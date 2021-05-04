@@ -1,0 +1,13 @@
+Proyecto: diseño adaptativo
+Bastante buenos todos estos conceptos del desarrollo responsive, ¿no?
+
+Sin embargo, nada de esto estaría 100% pasado en limpio, si no llevamos dichos conceptos a la práctica.
+
+Por esto, en la siguiente ejercitación, vamos a trabajar con las herramientas que CSS nos brinda para hacer, con nuestros documentos HTML, estructuras 100% adaptativas. A continuación vamos a:
+
+ Repasar de manera rápida los conceptos del diseño adaptativo.
+Trabajar con media queries y breakpoints para generar distintas visualizaciones de un mismo documento.
+ Incorporar las medidas relativas como parte fundamental del diseño responsive.
+No perdamos más el tiempo. Vamos a meter mano al código.
+
+Lo que hagamos en esta práctica nos sirve para prepararnos para lo que haremos en la clase en vivo. Recomendamos llegar con este material completo para aprovechar al máximo el encuentro.

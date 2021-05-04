@@ -1,0 +1,20 @@
+Elemento de línea y de bloque
+Si bien hay muchos elementos en las páginas web, estos se pueden agrupar en los siguientes grupos:
+
+Elementos en línea
+Elementos de bloque
+Elementos de semi-bloque
+Elementos ocultos
+Vamos a ver un poco de qué se trata esto y cómo se comportan cada uno de estos elementos. A prestar mucha atención porque lo que viene a continuación es muy importante.
+
+Ejercitación
+Vamos a hacer un ejercicio sencillo.
+
+El objetivo es probar en el navegador el comportamiento de los elementos en línea y en bloque. Vamos a tener que envolver en etiquetas una serie de textos para llegar al resultado deseado.
+
+En código vamos a poder ver 6 textos, de los cuales los primeros 3 deberían envolverse en forma de línea con la etiqueta span y los últimos 3 en forma de bloque con la etiqueta div. 
+
+¿El resultado fue el esperado?
+Dame una pista
+La etiqueta span es <span> y la div es <div>.
+
