@@ -1,0 +1,12 @@
+Introducción a Express
+En esta ocasión vamos a introducirnos en el mundo de Express. Este framework está pensado para hacernos las cosas un poquito más fáciles a la hora de trabajar con aplicaciones web.
+
+Express nos va a abrir las puertas a un nuevo mundo. Va a permitirnos crear, con poco código, nuestro primer servidor web y hacer que este pueda escalar fácilmente y ser utilizado en el ámbito profesional.
+
+Este framework es el más utilizado en los ambientes de Node.js, pero... ¿qué es un framework?
+
+Un framework es un entorno de trabajo que trae resueltas una serie de tareas, automatizando así el desarrollo de cualquier aplicación. Los frameworks de Node.js se utilizan principalmente por su productividad, escalabilidad y velocidad.
+
+Express es uno de los más populares y estables al momento de construir servidores web. Es muy utilizado tanto para sitios web como para aplicaciones móviles.
+
+¿Qué es Express?

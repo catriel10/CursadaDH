@@ -1,0 +1,11 @@
+Introducción a HTTP
+(Hyper Text Transfer Protocol) —o en castellano: Protocolo de Transferencia de HiperTexto— es un protocolo que sirve para gestionar la comunicación entre dos máquinas conectadas a una red. En donde una pide por un contenido específico y la otra se encarga de responder a dicha solicitud.
+
+Hasta aquí, todo parece sencillo, ¿no te parece? Pero dentro de dicho protocolo hay todo un conjunto de subreglas definidas que se encargan de saber cómo responder ante distintas peticiones. No es lo mismo solicitar la página de acceso de tu home banking, que acceder directamente a tu cuenta bancaria. Ya que, si bien en los dos casos estás haciendo peticiones al servidor, en el segundo, se hace necesario implementar mecanismos de autenticación que permitan identificar que no se trate de otra persona queriendo acceder a tu cuenta.
+
+Para reflexionar un poco antes de adentrarnos en el video, dejamos estas preguntas para tenerlas presentes:
+
+¿Será que el tipo de petición al servidor es el mismo cuando publicamos una foto en nuestra cuenta de Instagram, que cuando queremos ver una foto de otra cuenta que no es nuestra?
+Cuando iniciamos sesión en nuestro correo electrónico, ¿nuestra contraseña está protegida desde que sale de nuestra computadora hasta que llega al servidor?
+Cuando queremos editar solo nuestro nombre en el perfil de LinkedIn, ¿la información que no modificamos se mantiene o se sobrescribe nuevamente por más que sea la misma?
+¿Cuál será la diferencia entre ocultar alguna foto de nuestro perfil de Facebook y borrarla?

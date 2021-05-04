@@ -1,0 +1,4 @@
+Introducción a HTML
+En escencia, podríamos decir que HTML es el lenguage que nos permitirá darle estructura a nuestros sitios web. Si miramos más profundo, HTML es mucho más que eso, ya que también nos permite darle un sentido a los componentes del sitio y permitir que sistemas como los buscadores entiendan su estructura y puedan mostrar su contenido de manera inteligente.
+
+Si bien sabemos que al principio te vas a marear un poco con tantos elementos diferentes, te sugermimos que trates de ver la información de cualquier sitio web como si fueran un conjunto de cajas invisibles

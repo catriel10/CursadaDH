@@ -1,0 +1,11 @@
+Enviando archivos al navegador
+Hasta el momento, hemos visto cómo un servidor web puede atender a las distintas peticiones de un cliente y responder en consecuencia de las mismas.
+
+Sin embargo, sería ideal poder enviar, al cliente o navegador, un contenido lo suficientemente bien estructurado para que la persona que usa nuestro sistema sepa cómo interactuar con el mismo.
+
+Ahora, vamos a aprender la manera de enviar archivos directamente desde el servidor al navegador. Teniendo presente, como consigna importantísima, que aquel archivo que se envíe como respuesta debe ser un archivo que el navegador pueda interpretar —por ejemplo una imagen, un PDF o un archivo en formato HTML—.
+
+Sin más, adentrémonos en el video para conocer mucho más al respecto.
+
+Send file
+

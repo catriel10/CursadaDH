@@ -1,0 +1,12 @@
+Introducción a Routing y Response
+Cuando creamos un servidor es necesario configurar lo que tradicionalmente conocemos como un sistema de ruteo o route system. Este nos permite definir la respuesta que vamos a dar, dependiendo de la ruta a la que la persona que visita nuestra página haya accedido.
+
+Para poner este concepto en un escenario más concreto. Podemos decir que el sistema de ruteo es como el portero de un edificio de consultorios médicos, es el único que sabe con exactitud las personas que atienden en cada uno de los consultorios. Por lo tanto, cada vez que alguien se acerca a preguntar por una u otra especialidad médica, es él quien sabe a dónde dirigir a esa persona.
+
+Pero ¿qué sucede dentro del consultorio al cual llegó el visitante? Para esto tendremos que hablar del Response.
+
+El Response es la respuesta que obtiene el visitante del sitio una vez que el sistema de ruteo lo redirige según su petición. Dicha respuesta puede ser de variado tipo, pues podría contener solo texto plano, texto en formato HTML, entregar un documento tipo PDF, un fichero de imagen o cualquier formato que el navegador pueda interpretar.
+
+Con esto en mente, adentrémonos en el video para conocer un poco más al respecto.
+
+Sistema de ruteo en Express

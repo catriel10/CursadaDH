@@ -1,0 +1,14 @@
+Arquitectura cliente-servidor
+Las comunicaciones en Internet siempre necesitarán, como cualquier formato de comunicación, dos actores principales. En este caso, el cliente y el servidor. Pero:
+
+¿Qué es un cliente?
+¿Qué es un servidor?
+¿Cómo se da el proceso de comunicación entre estos dos?
+A diferencia de lo que muchas personas podrían pensar, la comunicación entre un cliente y un servidor se da bajo unos estrictos estándares de organización. Y distante también de lo que sucede en el mundo real, para que uno de estos dos actores responda, necesita primero escuchar atentamente lo que el otro está requiriendo.
+
+Bajo este escenario:
+
+¿Podremos tener un cliente y un servidor en la misma computadora?
+¿Será posible actuar como servidor y luego como cliente cuando estamos programando?
+¿Qué requerimientos específicos necesita una máquina que sirva como servidor?
+Estos y otros cuestionamientos más los resolveremos a lo largo de esta clase. Así que sin más, vamos a la teoría.

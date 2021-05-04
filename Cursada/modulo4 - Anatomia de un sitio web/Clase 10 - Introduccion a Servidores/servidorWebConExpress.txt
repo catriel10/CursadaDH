@@ -1,0 +1,8 @@
+¿Qué es un servidor web?
+Un servidor web es cualquier computadora o sistema que procese solicitudes (tradicionalmente llamadas requests) y que devuelve respuestas (tradicionalmente llamadas responses) a través de una conexión de Internet.
+
+Dentro del esquema de peticiones y respuestas. El cliente solicita un recurso o servicio a un servidor usando el formato estándar HTTP. Luego, el servidor recibe el mensaje, lo decodifica, realiza la petición que se le pidió y devuelve el resultado o respuesta a través del mismo formato.
+
+Cualquier sitio web existente se maneja dentro de este mecanismo de comunicación. Por un lado, un cliente que hace solicitudes; por el otro, un servidor que las atiende y da respuesta a las mismas.
+
+Levantando un servidor con Express

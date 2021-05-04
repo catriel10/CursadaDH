@@ -1,0 +1,31 @@
+Anatomía de un sitio web
+Aprender HTML como lenguaje de marcado que permitirá organizar la estructura y contenido de un sitio web para luego trabajar la capa visual mediante CSS. Con el objetivo de que el sitio sea estético y atractivo.
+
+¿Cómo funciona la web?
+Seguramente alguna vez nos hemos preguntado: ¿cómo funciona la web? Nos detuvimos a pensar, al menos por un momento, por qué cuando ingresamos en la barra de direcciones del navegador la dirección de Facebook o de Instagram, vemos efectivamente el contenido de dichas páginas y no de otras.
+
+Cuando nos encontramos frente a la computadora, cada vez que le pedimos al navegador por una página —escribiendo el nombre de ella en la barra de direcciones— estamos haciendo algo que comúnmente se conoce como petición. Pero ¿a dónde va esa petición?, ¿a dónde viaja desde que sale de nuestra computadora?
+
+Y, cuando como resultado de esa petición obtenemos en nuestra pantalla todo el esquema de la página web que solicitamos —de una manera armoniosa y organizada—, ¿por qué se ven tan bien las cosas? ¿Por qué se organizan de tal manera que nos es tan fácil de consumir su contenido?
+
+Pues bien, ha llegado el momento de adentrarnos en esa aventura y comenzar a transitar por los bellos caminos del universo web y de Internet… pero ¿cómo? ¿Acaso Internet y web no son la misma cosa? ¡Ja! Lamentablemente tenemos que decirte que no, no son la misma cosa. Por eso, a lo largo de este módulo, iremos destramando los secretos que guardan por detrás estas tecnologías y adicionalmente aprenderemos los lenguajes principales que sustentan el 100% de las páginas web. Hablamos de HTML y CSS, sin dejar de lado obviamente, la posibilidad que nos brinda JavaScript —más precisamente Node.js y Express— de generar un servicio local en nuestra computadora que permita responder a las distintas peticiones que se realicen desde un navegador web.
+
+Al finalizar este módulo, contaremos con los conocimientos y capacidades suficientes para poder crear un sitio web que sea 100% funcional y que, a su vez, conserve una estética visual adecuada y adaptable a los distintos dispositivos móviles existentes. Logrando también generar, en tu propia computadora, un sistema de conexión que sirva para consumir el contenido de la web de una manera dinámica y organizada.
+
+Objetivos del módulo
+En términos generales esperamos que a lo largo de este módulo podamos:
+Unir el back-end con la generación de un front-end con HTML y CSS.
+Organizar y estructurar el proyecto para trabajar específicamente con las vistas.
+En lo que respecta a la utilización de Express:
+Descomponer los distintos componentes que hacen un pedido web.
+Levantar un servidor.
+ Realizar pedidos por get.
+Además, nos enfocaremos más que nada en cuestiones vinculadas a HTML y CSS:
+Darle contenido y estructura a un sitio a través de HTML.
+Identificar los componentes que hacen una página web.
+Categorizar los subcomponentes e identificar sus usos.
+ Integrar los distintos componentes para hacer una página web.
+ Conocer y plasmar distintas etiquetas y reglas de estilo en un sitio web.
+Darle estilo y adaptación a distintos tipos de pantallas a través de CSS.
+Ejercitar sobre diseño de webs responsive.
+Usted está aquí

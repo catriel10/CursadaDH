@@ -1,0 +1,10 @@
+¿Qué vamos a ver en esta clase?
+Empezamos el módulo Anatomía de un sitio web con una primera clase de introducción a servidores donde nos encontraremos por primera vez con Express, pero ¡no se asusten! Vamos de a poco:
+
+Primero, haremos un repaso de algo fundamental para comprender a fondo dónde estamos parados: arquitectura cliente-servidor.
+Realizaremos una introducción al protocolo HTTP, otra herramienta fundamental.
+Luego, veremos Express. Nos introduciremos en este mundo que nos acompañará a lo largo de la cursada.
+Y, ahora sí, llega el momento cúlmine de levantar un servidor con Express.
+Para finalizar, armaremos nuestras primeras rutas y utilizaremos send & render.
+Llegando al verdadero final de la clase, veremos cómo enviar archivos al navegador con send file.
+Parece mucho, pero luego de todo esto estaremos preparados para trabajar con nuestras vistas con HTML y CSS.
