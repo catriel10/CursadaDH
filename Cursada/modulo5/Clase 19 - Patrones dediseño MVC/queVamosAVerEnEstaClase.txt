@@ -1,0 +1,8 @@
+¿Qué vamos a ver en esta clase?
+Esta clase es una de esas que son un pilar fundamental de la cursada, pues vamos a arrancar entendiendo qué es el patrón de diseño MVC. Esto nos dará el pie para adentrarnos en los controladores, los cuales son parte fundamental del anterior patrón mencionado.
+
+De la misma manera, y con el objetivo único de modularizar mucho más nuestra aplicación, vamos a retomar los conceptos de rutas, entendiendo a fondo lo que son las rutas parametrizadas. A su vez, vamos a estructurar un completo sistema de ruteo para que nuestra aplicación quede perfectamente construida.
+
+Como frutilla del postre, finalizamos esta clase con una gran herramienta (optativa) llamada express-generator. Esta nos va a permitir generar la estructura de nuestra aplicación de una manera mucho más rápida y organizada.
+
+Así que sin más por decir, adentrémonos en este mundo.

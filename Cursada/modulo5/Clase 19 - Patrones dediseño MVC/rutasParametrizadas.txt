@@ -1,0 +1,12 @@
+Rutas parametrizadas
+¿Qué pasa si tenemos 2000 productos en nuestro sistema y queremos mostrar el detalle de cada uno de ellos? ¿Será que tenemos que hacer una ruta por cada producto?
+
+Si la respuesta fuera afirmativa, seguramente ya estaríamos pensando en lanzar al aire un fuerte: ¡RENUNCIO!
+
+Pero calma, calma. Veamos cómo resolver este problema. Por suerte, Express ya pensó en esto y preparó las Rutas Dinámicas. Así que todavía no hace falta que renunciemos.
+
+Una ruta dinámica es aquella que, tal como su nombre lo indica, muestra una información u otra dependiendo de ciertos criterios. Esto la diferencia de las rutas estáticas, que son las que hemos venido trabajando hasta el momento.
+
+Para que esto funcione como es debido tanto la ruta como el controlador deben estar preparados para poder actuar dependiendo de la información que haya solicitado el cliente.
+
+En el siguiente video, vamos a mostrar las configuraciones necesarias que debemos implementar para poder darle dinamismo a nuestras rutas.

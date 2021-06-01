@@ -1,0 +1,7 @@
+.tetris {
+    display: flex;
+  }
+  
+  .pieza-tetris {
+   align-self: flex-end;
+  }

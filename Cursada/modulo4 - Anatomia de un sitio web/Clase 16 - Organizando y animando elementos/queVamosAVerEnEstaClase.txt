@@ -1,0 +1,8 @@
+¿Qué vamos a ver en esta clase?
+Si bien el posicionamiento de tipo Flexbox es el primero que debemos elegir al momento de diagramar la estructura de un sitio web, CSS nos brinda otros tipos de posicionamiento algo especiales que vamos a poder utilizar dependiendo de nuestras necesidades.
+
+Hay que tener presente que CSS es un lenguaje muy potente y seguramente cuente con una herramienta para todo aquello que queramos realizar.
+
+En esta clase, veremos los posicionamientos: relativo, absoluto y fijo. También aprenderemos cómo trabajar con capas, es decir, llevando y trayendo elementos de adelante hacia atrás.
+
+Adicionalmente, al final de la clase recorreremos caminos más divertidos, en donde vamos a aprender a generar transiciones y animaciones con CSS. Todo con el único objetivo de hacer de nuestros documentos HTML estructuras mucho más amenas y visualmente atractivas para los visitantes de nuestro sitio web.

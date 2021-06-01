@@ -1,0 +1,8 @@
+Introducción al módulo
+Hasta ahora, hemos visto una muy pequeña introducción al mundo de Express cuando abarcamos HTML y CSS, pero ha llegado el momento de adentrarnos más en este universo.
+
+En este nuevo módulo vamos a entender a fondo todo el potencial que Express tiene para entregarnos y trabajaremos con un patrón de diseño conocido como MVC. Este nos va a permitir organizar nuestro trabajo de una manera mucho más prolija y funcional.
+
+A su vez, vamos a interiorizarnos en todo el esquema que un servidor procesa al momento de recibir una petición, así como también en cada uno de los componentes que hacen de los archivos del back-end un completo sistema, fuerte y robusto, que sea capaz de soportar toda la lógica de nuestros sistemas web.
+
+Usted está aquí

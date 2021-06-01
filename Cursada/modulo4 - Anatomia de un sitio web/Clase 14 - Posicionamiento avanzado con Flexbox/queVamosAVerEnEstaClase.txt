@@ -1,0 +1,14 @@
+¿Qué vamos a ver en esta clase?
+Llegó el momento de poner manos a la obra y comenzar a organizar la estructura de nuestros documentos HTML para lograr una estética visual más funcional y organizada.
+
+Para ello, presentamos el posicionamiento tipo Flexbox. Este nos permitirá generar un diseño visual mucho más orgánico con un par de líneas de CSS.
+
+Algunos de los temas que veremos a lo largo de esta clase serán:
+
+ Cómo arrancar a trabajar con Flexbox.
+Qué es un contenedor flex y qué son los flex items.
+Cómo configurar la estructura base de un contenedor flex.
+Entendiendo los ejes: main y cross.
+Organizando nuestra estructura en función de los ejes del contenedor flex.
+ Cómo trabajar individualmente con los ítems de un contenedor flex.
+Sin duda, será una clase bastante interesante que nos abrirá a un mundo de diversas posibilidades de organización visual.

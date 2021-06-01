@@ -1,0 +1,8 @@
+Sistema de ruteo
+Toda aplicación que busque ser escalable necesita tener componentes modularizados. Y las rutas no son ajenas a este proceso. Por eso, cuando encaramos la implementación de las rutas que tendrá nuestra aplicación web, es conveniente pensar en pequeñas "entidades" de funcionamiento, más que en una estructura "monolítica".
+
+Para ello, Express nos da la posibilidad de crear distintos archivos que administren las posibles rutas de nuestro sitio. Siempre teniendo en cuenta que lo importante, en esta "atomización", es la organización de nuestros archivos dentro de nuestro proyecto. Todo con el objetivo de mantener lo más estable nuestro desarrollo.
+
+De esta manera, podemos concluir, entonces, que el sistema de ruteo dentro de un proyecto de Express no es otra cosa más que una modularización de las rutas de nuestra aplicación, que las mismas estén divididas y organizadas dependiendo de su funcionalidad.
+
+Veamos, entonces, un poco más en detalle cómo es que podemos llevar a cabo lo mencionado.
