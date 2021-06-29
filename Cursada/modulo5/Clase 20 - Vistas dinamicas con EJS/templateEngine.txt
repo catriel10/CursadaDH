@@ -1,0 +1,12 @@
+Introducción a Template Engine
+¿Qué es un motor de plantillas? y ¿qué es una plantilla?
+
+Vayamos por partes. Una plantilla es un archivo que posee una estructura HTML predefinida, el cual nos ayuda a generar varios archivos más a partir de este mismo.
+
+Por otro lado, un motor de plantillas es aquel que nos permite generar una plantilla en sí, para que nuestra aplicación pueda usarla.
+
+Hay varios motores de plantillas, pero particularmente en esta clase veremos EJS ya que su uso e implementación es realmente sencillo.
+
+Otra de las particularidades de un motor de plantillas es que nos permite generar archivos dinámicos que contengan información proveniente de los controladores.
+
+Gracias a esta particularidad, y con tan solo un par de archivos, vamos a poder mostrar toda aquella información almacenada en nuestra base de datos.

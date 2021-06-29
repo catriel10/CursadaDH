@@ -1,0 +1,17 @@
+Para saber más
+Como es habitual, compartimos aquí información adicional que servirá para ahondar más en todos los conceptos que fuimos adquiriendo a lo largo de este módulo. ¡A sacarle provecho!
+
+Sacándole el jugo a Express
+Express nos ayuda a crear nuestro propio servidor web, eso ya está claro. Pero en ocasiones vale la pena saber optimizar dicho servidor para que las peticiones que atiende puedan ser procesadas de una manera más rápida. Por eso, en este enlace traído directamente desde la documentación oficial vamos a encontrar las recomendaciones y mejores prácticas que podemos implementar en todos nuestros proyectos con Express.
+
+Los middlewares, esos bloques de código misteriosos
+Seguramente a esta altura ya sabemos, en cierta medida, lo que es un middleware y cómo lo podemos implementar. Sin embargo, para que podamos tener mucha mayor claridad al respecto, y para que los terminemos de comprender a la perfección, dejamos este otro punto de vista de lo que es un middleware. Quizás ayuda a aclarar las dudas.
+
+Encriptación y hashing de datos, ¿qué es eso?
+Dentro de Express trabajamos con una librería llamada bcrypt.js encargada de encriptar los datos sensibles de las personas que se registran a nuestro sistema, pero ¿qué es, en sí, la encriptación de datos y por qué es tan importante? Seguramente con esta lectura vamos a poder responder esa pregunta y terminar de comprender por qué hoy en día esto es algo a lo que debemos dar valiosa importancia como personas desarrolladoras de aplicaciones web.
+
+EJS: dominando este template engine
+Sabemos que EJS parece ser puro HTML con un par de superpoderes, pero la verdad es que tienen MUCHOS superpoderes que hacen que las vistas de nuestra aplicación sean algo realmente poderoso. Por ello, dejamos esta breve guía para terminar de sacarle el jugo. Asimismo, compartimos esta comparativa entre los distintos template engines que existen para que, a futuro, podamos decidir cuál de ellos aprender.
+
+Métodos HTTP: hacia una API REST
+Nadie duda de la importancia de los métodos HTTP. Estos nos ayudan a construir nuestra API, algo que usaremos a futuro seguramente. Por ello, esta lectura nos viene bastante bien dado que brinda un contexto mucho más amplio de lo que deberemos tener en cuenta al trabajar con estos métodos.

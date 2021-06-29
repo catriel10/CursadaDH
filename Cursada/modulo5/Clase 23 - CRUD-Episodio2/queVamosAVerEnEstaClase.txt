@@ -1,0 +1,16 @@
+¿Qué vamos a ver en esta clase?
+Hasta ahora, habíamos trabajado almacenando nada más que información de texto en nuestro servidor, mediante los distintos métodos de HTTP, como GET, POST, PUT y DELETE.
+
+Pero ¿cómo podemos hacer para subir archivos y que los mismos se almacenen en el servidor?
+
+Pensemos por un instante en un e-market, en donde cualquier persona usuaria del sistema puede publicar productos. Sería bastante aburrido si dichas publicaciones no tuvieran siquiera una imagen para mostrar, ¿no?
+
+Por ello, a lo largo de esta clase nos vamos a introducir en el mágico mundo de la subida de archivos en el servidor. Un proceso que no es tan complejo, pero que tampoco es para nada trivial.
+
+Al finalizar esta clases seremos capaces de:
+
+Entender el proceso requerido para el procesamiento de archivos del lado del servidor.
+Manejar la librería más utilizada para este procedimiento llamada Multer.
+Implementar el lugar dentro del servidor en donde queramos que se almacenen los archivos.
+Generar una correcta nomenclatura de archivos para que los mismos sean persistentes a lo largo de toda la aplicación.
+Así que, sin más, vamos a meternos de lleno con estos procesos.

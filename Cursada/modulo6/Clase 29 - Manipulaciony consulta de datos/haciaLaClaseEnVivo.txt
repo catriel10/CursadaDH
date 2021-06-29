@@ -1,0 +1,13 @@
+Llegó el momento de prepararse para la clase en vivo, en donde, como es habitual, estaremos aplicando todos los conocimientos aprendidos en esta clase.
+
+Sin embargo, para poder setear una buenas expectativas y aprovechar al máximo todo lo que tenemos preparado para el mencionado encuentro, dejamos a continuación este listado de preguntas para poner a prueba los conceptos vistos:
+
+En una consulta tipo SELECT, ¿cómo podemos hacer para seleccionar TODAS las columnas de una tabla?
+Cuál de los siguientes operadores no funcionaría en una consulta con el WHERE: LIKE, =, BETWEEN, <>, ON.
+¿Cuáles son los valores posibles al implementar la cláusula ORDER BY?
+¿Qué no debemos olvidar poner en el WHERE cuando estamos haciendo un UPDATE o un DELETE?
+¿Para qué sirve la función de alteración EXTRACT?
+¿Es obligatorio usar el alias al momento de realizar una consulta tipo SELECT?
+Si logramos responder las anteriores preguntas sin problemas, podemos relajarnos y esperar a la clase en vivo. Si por el contrario, tuvimos algunas dudas en las respuestas, recomendamos repasar los videos para afianzar los conceptos.
+
+¡Nos vemos en clase!

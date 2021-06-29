@@ -1,0 +1,16 @@
+Hacia la clase en vivo
+Muy bien, llegamos al final de esta estupenda clase.
+
+Para chequear un poco los conocimientos adquiridos de manera personal, podemos intentar resolver las siguientes preguntas:
+
+¿Qué son los motores de plantillas?
+¿Para qué usamos los motores de plantillas?
+¿Por qué usamos EJS como motor de plantillas?
+¿Qué se entiende por el concepto de “renderización de vistas”?
+¿Qué nos ayudan a resolver las etiquetas propias de EJS?
+¿Cómo podemos pasar información desde el controlador a la vista?
+¿En qué nos ayuda la modularización de vistas?
+
+Si pudimos responder de manera sencilla y contundente a estas preguntas, tenemos todos los conceptos listos para encontrarnos en la clase en vivo. Si, por el contrario, sentimos que dudamos en algunas, lo ideal será repasar nuevamente los átomos de video. De esa manera vamos a poder encontrar la respuesta correcta a esas pequeñas dudas.
+
+¡Nos vemos en clase!

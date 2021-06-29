@@ -1,0 +1,14 @@
+En el encuentro en vivo que está por venir, vamos a estar trabajando e implementando el paquete de Multer, con el objetivo de que nuestros sistemas tengan ahora la posibilidad de procesar archivos.
+
+Por tal motivo, antes de la clase y para asegurarnos que estamos con toda la información preparada, tomémonos unos minutos para pensar en las siguientes preguntas:
+
+¿Cuál es la configuración básica, pero necesaria, para que Multer funcione como esperamos?
+Multer: ¿es un middleware de aplicación o es un middleware de ruta?
+¿Cuáles son los atributos requeridos en el formulario HTML para que Express pueda entender que se desean enviar archivos al servidor?
+¿Cómo podemos generar que el nombre de archivo que se espera guardar, sea un nombre único y unívoco?
+¿Tiene Multer la posibilidad de validar si lo que queremos subir es una imagen o un archivo de Excel?
+Si pudimos llegar por nuestra cuenta a las respuestas de estas preguntas, estamos más que bien. Keep calm and esperar por el encuentro en vivo.
+
+Si por el contrario, nos costó llegar a la solución de algunas, o la mayoría de las respuestas, lo ideal sería volver a revisar los videos y prestar mucha atención a los procesos que allí se mencionan, pues de esa manera vamos a poder tener todo listo para nuestro próximo encuentro.
+
+¡Nos vemos en clase!

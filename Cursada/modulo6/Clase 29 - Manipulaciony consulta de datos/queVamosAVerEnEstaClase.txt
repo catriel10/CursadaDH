@@ -1,0 +1,9 @@
+¿Qué vamos a ver en esta clase?
+A lo largo de esta clase nos seguiremos adentrando en el mundo de las bases de datos relacionales y, en particular, aprenderemos:
+
+Cómo hacer consultas que nos permitan insertar, actualizar y eliminar registros de una tabla.
+Traer datos de una tabla de manera general.
+Traer datos de una tabla a través de la aplicación de diversos filtros de búsqueda.
+Cómo limitar la cantidad de resultados generados por una determinada búsqueda (algo que está súper bueno si nuestro interés es hacer un buscador con un sistema de paginación).
+A usar algunas funciones nativas de MySQL, para que podamos filtrar y organizar los datos obtenidos de una manera mucho más eficiente.
+En conclusión, es una clase en donde vamos a conocer los principales secretos del trabajo con bases de datos. Así que manos a la obra y a poner mucha atención en los conceptos aquí expuestos.

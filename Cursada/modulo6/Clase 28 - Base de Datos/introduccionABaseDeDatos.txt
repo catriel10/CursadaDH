@@ -1,0 +1,16 @@
+Introducción a bases de datos
+Bases de datos por aquí, bases de datos por allá, pero ¿qué es una base de datos?
+
+Podemos decir que es un conjunto de datos pertenecientes a un mismo contexto organizados para un propósito específico. Una base de datos nos permite:
+
+Almacenar (agregar, modificar, eliminar) datos.
+Acceder a los datos.
+Manipular y combinarlos.
+Analizar datos.
+Entre otras cosas más.
+
+Bases de datos las hay de dos tipos: relacionales y no relacionales. En lo particular, nosotros aprenderemos acerca de una base de datos relacional, ya que la misma nos permite comprender a profundidad cómo funcionan las bases de datos.
+
+A su vez, dentro del mundo de las bases de datos relacionales existen varias opciones por las cuales nos podemos decantar. Puntualmente, nosotros veremos MySQL, ya que es una de las bases de datos más populares a nivel mundial y también es sencilla en su uso.
+
+Vayamos a ver qué puede hacer esta base de datos por nosotros.

@@ -1,0 +1,12 @@
+Vistas dinámicas con ejs
+Ha llegado el momento de poner a prueba los conocimientos que fuimos adquiriendo en la clase virtual y para ello vamos a jugar un rato con EJS en esta clase en vivo.
+
+Nuestros objetivos principales de esta clase serán:
+
+Despejar las dudas al respecto de lo que son los motores de plantillas.
+Entender a fondo qué es una vista en sí.
+Procesar el concepto de “renderización de vistas”.
+Migrar un pequeño proyecto de HTML a EJS.
+Aprender a enviar datos desde el controlador a la vista.
+Modularizar nuestros archivos EJS.
+Sin más, vayamos entonces al archivo de ejercitación y veamos qué desafío nos plantea esta vez.

@@ -1,0 +1,14 @@
+¿Qué vamos a ver en esta clase?
+A lo largo de nuestras clases, hemos venido trabajando con un sistema que registre personas y almacene su información en una base de datos de tipo JSON.
+
+Sin embargo, hasta el momento no hemos reparado en pensar en el proceso de login de una persona que se ha registrado previamente. Es justamente esto lo que estaremos trabajando en esta clase.
+
+Vamos a aprender:
+
+Qué es Session y cómo lo podemos utilizar.
+Qué son las cookies y para qué nos sirven en nuestra aplicación.
+Cómo encriptar información sensible (como la contraseña) a través de un proceso de hashing.
+Cómo armar un proceso completo de login en nuestra aplicación.
+Con esto en mente, adentrémonos en el maravilloso mundo de las cookies y Session.
+
+¡Vamos!

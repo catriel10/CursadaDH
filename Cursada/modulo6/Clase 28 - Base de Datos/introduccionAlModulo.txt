@@ -1,0 +1,33 @@
+Introducción al módulo
+Por fin ha llegado el momento de adentrarnos en el maravilloso mundo de las bases de datos. Este módulo está dividido en dos partes:
+
+SQL y MySQL
+Sequelize ORM
+La primera parte está enfocada en el aprendizaje del lenguaje SQL y el motor de base de datos relacionales MySQL. Mientras que la segunda está más enfocada al manejo del paquete de Node.js llamado Sequelize, el cual nos va a permitir trabajar con bases de datos MySQL desde un proyecto de Express.
+
+A continuación, listamos los objetivos que esperamos cumplir al finalizar esta parte de la cursada.
+
+Objetivos del módulo:
+
+Poder estimar las ventajas de tener una base de datos relacional.
+Descomponer una problemática y asociar la parte de persistencia de datos.
+Diseñar el modelo de persistencia de base de datos adecuado para nuestra aplicación.
+Realizar operaciones CRUD (Create, Read, Update, Delete) en la base de datos.
+Entender el concepto de ORM y su importancia en los proyectos de desarrollo.
+Implementar sentencias de SQL puro dentro de Express con Sequelize.
+Implementar el funcionamiento de los métodos de CRUD de sequelize.
+Migrar desde el soporte JSON al soporte MySQL.
+Guía de instalación
+Las bases de datos suelen ser un tema súper apasionante, pero que las emociones no nos hagan perder el camino y veamos si tenemos todo lo necesario para comenzar.
+
+Para poder trabajar en el módulo de bases de datos resulta indispensable contar con las herramientas necesarias para poder manipularlas.
+
+Para esto vamos a requerir de dos elementos importantes:
+
+Un gestor de base de datos.
+Una herramienta que nos permita manipular la base de datos.
+Como gestor de base de datos vamos a estar utilizando MySQL, una de las bases de datos relacionales más utilizadas, y como herramienta para manipularla, DBeaver, que nos va a permitir esta interacción incluso en forma gráfica.
+
+Ambos deben correr en forma local en nuestras computadoras, por lo cual debemos instalarlos.
+
+Instalar estos elementos no suele ser fácil, por lo cual dejamos lista una guía de instalación para cada plataforma (Windows, Mac y Linux). Recordemos que si algo no sale bien, podemos recurrir al canal de comunicación de tu cursada.

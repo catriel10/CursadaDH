@@ -1,0 +1,15 @@
+Hacia la clase en vivo
+Acabamos de completar la primera clase de base de datos MySQL. Como es habitual, antes de la clase en vivo, recomendamos hacer un checklist a título personal de las siguientes preguntas para definir qué tan claros quedaron ciertos conceptos:
+
+MySQL: ¿es una base de datos relacional o no relacional?
+¿Por qué MySQL corre en otro servidor diferente al de nuestra aplicación web?
+¿Con qué otro elemento podemos hacer la analogía de una tabla en una base de datos?
+¿Cuántas tablas pueden existir en una base de datos?
+¿Existe un límite de columnas dentro de una tabla?
+¿Cuáles son los tipos de datos más comunes en una base de datos?
+¿Cómo podemos relacionar dos tablas entre sí?
+¿Qué son los constraints y qué nos permiten hacer?
+¿La Foreign Key es un constraint?
+Si logramos responder a todas las preguntas anteriores, estamos con todo listo para afrontar la clase en vivo que se viene. Si, por el contrario, algunas preguntas se dificultaron, recomendamos repasar nuevamente el material para terminar de afianzar los conceptos.
+
+Sin más, ¡nos vemos en clase!

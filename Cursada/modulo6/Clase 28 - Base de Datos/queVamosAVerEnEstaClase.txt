@@ -1,0 +1,20 @@
+¿Qué vamos a ver en esta clase?
+Por fin ha llegado el momento de adentrarnos en el mundo de las bases de datos. Particularmente en esta oportunidad veremos una base de datos relacional SQL.
+
+Este tipo de bases de datos nos permiten almacenar información de una manera más consistente y ordenada, por ello su popularidad.
+
+Dentro de los temas que veremos en esta clase están los siguientes:
+
+Introducción a bases de datos.
+Qué es una tabla.
+Qué son las relaciones.
+Tipos de datos.
+Restricciones o Constraints.
+Directrices create, drop, alter.
+Claves foráneas (Foreign keys)
+No nos olvidemos de instalar las herramientas necesarias para la clase.
+
+¿Cómo vamos a trabajar?
+En esta clase trabajaremos con una base de datos que tendremos que descargar para que podamos practicar. En cada cuestionario propondremos una consigna que implica trabajar con Workbench y la base de datos descargada, para luego copiar y pegar los resultados que obtengamos en los cuestionarios de Playground.
+
+¡Cualquier duda podemos consultar a los profesores por Slack!

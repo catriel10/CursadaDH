@@ -1,0 +1,8 @@
+¿Qué es un CRUD?
+Como hemos mencionado anteriormente, CRUD hace referencia a las siglas: Create, Read, Update y Delete. Es un proceso que nos permite crear, leer, actualizar y borrar registros de nuestra base de datos. Un proceso muy natural para cualquier persona que trabaje del lado del back-end.
+
+Para llevar a cabo dicho proceso vamos a sustentarnos en los métodos de HTTP, ya que estos justamente fueron pensados para crear este tipo de funcionalidades dentro de las aplicaciones web.
+
+Sin embargo, en ocasiones no basta con solamente guardar datos, sino que seguramente también vamos a querer almacenar en nuestro servidor archivos, como por ejemplo una imagen.
+
+Por ello es que esta es una de dos clases en las que veremos cómo llevar, de cero a cien, todos los pasos necesarios para completar este proceso, pues no podríamos contemplar que un CRUD está 100% completo si no contamos con la posibilidad de procesar archivos del lado del servidor.

@@ -1,0 +1,7 @@
+¿Qué vamos a ver en esta clase?
+En esta clase nos adentraremos en los conceptos clave de lo que es un middleware, pues, spoiler alert, muchas cosas dentro del entorno de Express son un middleware. Así que en esta clase vamos a aprender:
+
+Qué es exactamente un middleware.
+Cómo podemos aplicar un middleware y sus diversas formas de aplicación.
+La diferencia entre un middleware de aplicación global y un middleware de aplicación en ruta.
+Adicionalmente, estaremos trabajando con un paquete de npm llamado Express Validator, el cual nos va a permitir validar los datos que recibe nuestra aplicación desde el lado del front-end, para que nuestra base de datos pueda guardar la información de manera limpia y consistente.
